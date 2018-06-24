@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/trito/CLionProjects/CholeskyDecomposition/main.cpp" "C:/Users/trito/CLionProjects/CholeskyDecomposition/cmake-build-debug/CMakeFiles/CholeskyDecomposition.dir/main.cpp.obj"
+  "C:/Users/Triton/CLionProjects/CholeskyDecomposition/main.cpp" "C:/Users/Triton/CLionProjects/CholeskyDecomposition/cmake-build-debug/CMakeFiles/CholeskyDecomposition.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
